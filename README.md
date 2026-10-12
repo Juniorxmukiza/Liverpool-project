@@ -30,8 +30,6 @@ Match results for both Premier League seasons from [football-data.co.uk](https:/
 - **Away form made the difference.** Liverpool's away win rate rose from 47% to 58%.
 - **The title races built up differently.** The cumulative points chart shows how each season developed week by week.
 
-![Cumulative points](images/points_trajectory.png)
-![Home vs away](images/home_away.png)
 
 ## Tools
 
